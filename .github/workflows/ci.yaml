@@ -1,4 +1,6 @@
 name: 🔨 CI - Build and Push
+permissions:
+  contents: write
 
 on:
   push:
