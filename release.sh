@@ -13,4 +13,4 @@ git commit -m "chore: bump chart version to $VERSION"
 git tag "$VERSION"
 
 # Push both commit and tag
-git push origin "$VERSION"
+git push origin main "$VERSION"
